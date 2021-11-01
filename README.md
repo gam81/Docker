@@ -2,7 +2,9 @@ NOTE: I have run out of credits in my billing account and was therefore unable t
 I will be requesting more credits and quickly catching up to where I need to be on this project.
 
 ALL FILES IN PROJECT CHECKPOINT FOLDER
+
 PROJECT OPTION 2
+
 Steps for connecting to GCP:
 
 
