@@ -4,10 +4,17 @@ I will be requesting more credits and quickly catching up to where I need to be 
 ALL FILES IN PROJECT CHECKPOINT FOLDER
 PROJECT OPTION 2
 Steps for connecting to GCP:
+
+
 import google.cloud.container_v1 as container
+
 from google.auth import compute_engine
+
 from google.cloud.container_v1 import ClusterManagerClient
+
 from kubernetes import client, config
+
+
 
 then use .getCluster() method of ClusterManagerClient to access the cluster using your credentials
 
