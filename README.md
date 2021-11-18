@@ -1,7 +1,13 @@
-NOTE: I have run out of credits in my billing account and was therefore unable to enable kubernetes or run any code. 
-I will be requesting more credits and quickly catching up to where I need to be on this project.
+HW4 IN HW4 FOLDER
 
-ALL FILES IN PROJECT CHECKPOINT FOLDER
+
+
+
+
+
+
+
+ALL PROJECT FILES IN PROJECT CHECKPOINT FOLDER
 
 PROJECT OPTION 2
 
